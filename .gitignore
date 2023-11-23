@@ -1,0 +1,14 @@
+**/results
+**/exps
+*.jpg
+build/
+__pycache__/
+ops/
+*.pth
+*.pt
+~/MIC_Imitation/datasets/
+~/CFINet/mmdet/datasets/
+~/AQT_modified/datasets/
+~/MIC/det/mmdet/datasets/
+~/MIC_AQT/datasets/
+~/CFINet/mmdet/datasets/
