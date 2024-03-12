@@ -59,7 +59,7 @@ Filtering all three datasets with [anno_convert.py](anno_convert.py) to contain 
 
 ## Checkpoints
 
-The model weights used to produce the results in our experiements section can be found through this google drive [link](https://drive.google.com/drive/u/3/folders/190p6_ZunhC1oIf8zdQ2G1h1ROEUMaPbr).
+The model weights used to produce the results in our experiements section can be found through this google drive [link](https://drive.google.com/drive/u/3/folders/1xa46mc28ki16w3GR05yhehlvL_3remkO).
 
 ## Training
 
