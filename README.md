@@ -8,8 +8,16 @@ To address this, we propose DAScope, a novel, small-object-aware, domain adaptiv
 The key novelty in our proposed pipeline is a self-supervised feature imitation learning module. 
 Within a mean-teacher framework, it extracts object-level feature representations, stores them in a feature bank, and probabilistically samples them to compute a contrastive loss. 
 This contrastive loss improves object-level feature representations, which is especially effective for detecting small objects. 
+
+<img src="figures/das_overview.png" width="900">
+
 DAScope achieves competitive performance with the state-of-the-art detectors on location and weather adaptation tasks. 
-Furthermore, DAScope also achieves superior performance on small object detection tasks with +0.8~+8.2 mAP improvement over SOTA methods. 
+
+<img src="figures/results_normal.png" width="900">
+
+Furthermore, DAScope also achieves superior performance on small object detection tasks with +0.8~+8.2 mAP improvement over SOTA methods.
+
+<img src="figures/results_small.png" width="900">
 
 ### Installation
 
